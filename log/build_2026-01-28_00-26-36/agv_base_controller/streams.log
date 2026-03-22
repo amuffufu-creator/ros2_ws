@@ -1,0 +1,25 @@
+[2.263s] Invoking command in '/home/mrhaha/ros2_ws/build/agv_base_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrhaha/ros2_ws/build/agv_base_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mrhaha/ros2_ws/build/agv_base_controller/build --no-deps symlink_data
+[2.943s] running develop
+[3.279s] running egg_info
+[3.279s] creating agv_base_controller.egg-info
+[3.312s] writing agv_base_controller.egg-info/PKG-INFO
+[3.312s] writing dependency_links to agv_base_controller.egg-info/dependency_links.txt
+[3.312s] writing entry points to agv_base_controller.egg-info/entry_points.txt
+[3.313s] writing requirements to agv_base_controller.egg-info/requires.txt
+[3.313s] writing top-level names to agv_base_controller.egg-info/top_level.txt
+[3.313s] writing manifest file 'agv_base_controller.egg-info/SOURCES.txt'
+[3.386s] reading manifest file 'agv_base_controller.egg-info/SOURCES.txt'
+[3.387s] writing manifest file 'agv_base_controller.egg-info/SOURCES.txt'
+[3.422s] running build_ext
+[3.423s] Creating /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv-base-controller.egg-link (link to .)
+[3.425s] Installing simple_goto_controller script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[3.427s] Installing udp_bridge_node script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[3.427s] 
+[3.427s] Installed /home/mrhaha/ros2_ws/build/agv_base_controller
+[3.427s] running symlink_data
+[3.427s] creating /home/mrhaha/ros2_ws/install/agv_base_controller/share/ament_index
+[3.427s] creating /home/mrhaha/ros2_ws/install/agv_base_controller/share/ament_index/resource_index
+[3.427s] creating /home/mrhaha/ros2_ws/install/agv_base_controller/share/ament_index/resource_index/packages
+[3.429s] symbolically linking /home/mrhaha/ros2_ws/build/agv_base_controller/resource/agv_base_controller -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/ament_index/resource_index/packages
+[3.429s] symbolically linking /home/mrhaha/ros2_ws/build/agv_base_controller/package.xml -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller
+[3.493s] Invoked command in '/home/mrhaha/ros2_ws/build/agv_base_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrhaha/ros2_ws/build/agv_base_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mrhaha/ros2_ws/build/agv_base_controller/build --no-deps symlink_data

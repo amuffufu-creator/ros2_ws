@@ -1,0 +1,43 @@
+running develop
+Removing /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv-base-controller.egg-link (link to .)
+running egg_info
+writing ../../build/agv_base_controller/agv_base_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/agv_base_controller/agv_base_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/agv_base_controller/agv_base_controller.egg-info/entry_points.txt
+writing requirements to ../../build/agv_base_controller/agv_base_controller.egg-info/requires.txt
+writing top-level names to ../../build/agv_base_controller/agv_base_controller.egg-info/top_level.txt
+reading manifest file '../../build/agv_base_controller/agv_base_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/agv_base_controller/agv_base_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+copying agv_base_controller/log_odom_speed.py -> /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller
+copying agv_base_controller/simple_goto_controller.py -> /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller
+copying agv_base_controller/udp_bridge_node.py -> /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller
+running install
+running install_lib
+creating /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/imu_udp_bridge.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/log_odom_speed.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/simple_goto_controller.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/__init__.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/udp_bridge_node.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/imu_udp_bridge.py to imu_udp_bridge.cpython-312.pyc
+byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/log_odom_speed.py to log_odom_speed.cpython-312.pyc
+byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/simple_goto_controller.py to simple_goto_controller.cpython-312.pyc
+byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/udp_bridge_node.py to udp_bridge_node.cpython-312.pyc
+running install_data
+copying resource/agv_base_controller -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller
+copying launch/slam_bringup.launch.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/launch
+copying urdf/agv.urdf -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/urdf
+creating /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/config
+copying config/slam_toolbox_params.yaml -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/config
+running install_egg_info
+Copying ../../build/agv_base_controller/agv_base_controller.egg-info to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller-0.0.0-py3.12.egg-info
+running install_scripts
+Installing imu_udp_bridge script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+Installing log_odom_speed script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+Installing simple_goto_controller script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+Installing udp_bridge_node script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+writing list of installed files to '/home/mrhaha/ros2_ws/build/agv_base_controller/install.log'

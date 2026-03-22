@@ -1,0 +1,5 @@
+[console_scripts]
+imu_udp_bridge = agv_base_controller.imu_udp_bridge:main
+log_odom_speed = agv_base_controller.log_odom_speed:main
+simple_goto_controller = agv_base_controller.simple_goto_controller:main
+udp_bridge_node = agv_base_controller.udp_bridge_node:main

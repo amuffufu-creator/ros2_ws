@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Documents/PlatformIO/Projects/ESP32_firmware"
+		}
+	],
+	"settings": {}
+}

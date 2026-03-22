@@ -1,0 +1,47 @@
+[0.898s] Invoking command in '/home/mrhaha/ros2_ws/build/agv_base_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrhaha/ros2_ws/build/agv_base_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mrhaha/ros2_ws/build/agv_base_controller/build
+[1.133s] running develop
+[1.283s] Removing /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv-base-controller.egg-link (link to .)
+[1.306s] Invoked command in '/home/mrhaha/ros2_ws/build/agv_base_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrhaha/ros2_ws/build/agv_base_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mrhaha/ros2_ws/build/agv_base_controller/build
+[1.306s] Invoking command in '/home/mrhaha/ros2_ws/src/agv_base_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrhaha/ros2_ws/build/agv_base_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/agv_base_controller build --build-base /home/mrhaha/ros2_ws/build/agv_base_controller/build install --record /home/mrhaha/ros2_ws/build/agv_base_controller/install.log --single-version-externally-managed install_data --force
+[1.509s] running egg_info
+[1.523s] writing ../../build/agv_base_controller/agv_base_controller.egg-info/PKG-INFO
+[1.523s] writing dependency_links to ../../build/agv_base_controller/agv_base_controller.egg-info/dependency_links.txt
+[1.523s] writing entry points to ../../build/agv_base_controller/agv_base_controller.egg-info/entry_points.txt
+[1.524s] writing requirements to ../../build/agv_base_controller/agv_base_controller.egg-info/requires.txt
+[1.524s] writing top-level names to ../../build/agv_base_controller/agv_base_controller.egg-info/top_level.txt
+[1.553s] reading manifest file '../../build/agv_base_controller/agv_base_controller.egg-info/SOURCES.txt'
+[1.554s] writing manifest file '../../build/agv_base_controller/agv_base_controller.egg-info/SOURCES.txt'
+[1.554s] running build
+[1.554s] running build_py
+[1.554s] copying agv_base_controller/log_odom_speed.py -> /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller
+[1.555s] copying agv_base_controller/simple_goto_controller.py -> /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller
+[1.555s] copying agv_base_controller/udp_bridge_node.py -> /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller
+[1.556s] running install
+[1.559s] running install_lib
+[1.574s] creating /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+[1.574s] copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/imu_udp_bridge.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+[1.574s] copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/log_odom_speed.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+[1.575s] copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/simple_goto_controller.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+[1.575s] copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/__init__.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+[1.575s] copying /home/mrhaha/ros2_ws/build/agv_base_controller/build/lib/agv_base_controller/udp_bridge_node.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller
+[1.575s] byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/imu_udp_bridge.py to imu_udp_bridge.cpython-312.pyc
+[1.576s] byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/log_odom_speed.py to log_odom_speed.cpython-312.pyc
+[1.577s] byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/simple_goto_controller.py to simple_goto_controller.cpython-312.pyc
+[1.578s] byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/__init__.py to __init__.cpython-312.pyc
+[1.578s] byte-compiling /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller/udp_bridge_node.py to udp_bridge_node.cpython-312.pyc
+[1.579s] running install_data
+[1.581s] copying resource/agv_base_controller -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/ament_index/resource_index/packages
+[1.581s] copying package.xml -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller
+[1.581s] copying launch/slam_bringup.launch.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/launch
+[1.581s] copying urdf/agv.urdf -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/urdf
+[1.581s] creating /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/config
+[1.581s] copying config/slam_toolbox_params.yaml -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/config
+[1.581s] running install_egg_info
+[1.596s] Copying ../../build/agv_base_controller/agv_base_controller.egg-info to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller-0.0.0-py3.12.egg-info
+[1.598s] running install_scripts
+[1.699s] Installing imu_udp_bridge script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[1.699s] Installing log_odom_speed script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[1.699s] Installing simple_goto_controller script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[1.699s] Installing udp_bridge_node script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[1.700s] writing list of installed files to '/home/mrhaha/ros2_ws/build/agv_base_controller/install.log'
+[1.720s] Invoked command in '/home/mrhaha/ros2_ws/src/agv_base_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrhaha/ros2_ws/build/agv_base_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/agv_base_controller build --build-base /home/mrhaha/ros2_ws/build/agv_base_controller/build install --record /home/mrhaha/ros2_ws/build/agv_base_controller/install.log --single-version-externally-managed install_data --force

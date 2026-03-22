@@ -1,0 +1,26 @@
+[0.882s] Invoking command in '/home/mrhaha/ros2_ws/src/agv_base_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrhaha/ros2_ws/build/agv_base_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/agv_base_controller build --build-base /home/mrhaha/ros2_ws/build/agv_base_controller/build install --record /home/mrhaha/ros2_ws/build/agv_base_controller/install.log --single-version-externally-managed install_data
+[1.085s] running egg_info
+[1.099s] writing ../../build/agv_base_controller/agv_base_controller.egg-info/PKG-INFO
+[1.099s] writing dependency_links to ../../build/agv_base_controller/agv_base_controller.egg-info/dependency_links.txt
+[1.099s] writing entry points to ../../build/agv_base_controller/agv_base_controller.egg-info/entry_points.txt
+[1.099s] writing requirements to ../../build/agv_base_controller/agv_base_controller.egg-info/requires.txt
+[1.100s] writing top-level names to ../../build/agv_base_controller/agv_base_controller.egg-info/top_level.txt
+[1.129s] reading manifest file '../../build/agv_base_controller/agv_base_controller.egg-info/SOURCES.txt'
+[1.130s] writing manifest file '../../build/agv_base_controller/agv_base_controller.egg-info/SOURCES.txt'
+[1.130s] running build
+[1.130s] running build_py
+[1.131s] running install
+[1.135s] running install_lib
+[1.150s] running install_data
+[1.150s] copying launch/agv_navigation.launch.py -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/launch
+[1.151s] copying config/nav2_view.rviz -> /home/mrhaha/ros2_ws/install/agv_base_controller/share/agv_base_controller/config
+[1.151s] running install_egg_info
+[1.166s] removing '/home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[1.166s] Copying ../../build/agv_base_controller/agv_base_controller.egg-info to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages/agv_base_controller-0.0.0-py3.12.egg-info
+[1.166s] running install_scripts
+[1.267s] Installing imu_udp_bridge script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[1.267s] Installing log_odom_speed script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[1.268s] Installing simple_goto_controller script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[1.268s] Installing udp_bridge_node script to /home/mrhaha/ros2_ws/install/agv_base_controller/lib/agv_base_controller
+[1.268s] writing list of installed files to '/home/mrhaha/ros2_ws/build/agv_base_controller/install.log'
+[1.288s] Invoked command in '/home/mrhaha/ros2_ws/src/agv_base_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrhaha/ros2_ws/build/agv_base_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrhaha/ros2_ws/install/agv_base_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/agv_base_controller build --build-base /home/mrhaha/ros2_ws/build/agv_base_controller/build install --record /home/mrhaha/ros2_ws/build/agv_base_controller/install.log --single-version-externally-managed install_data
